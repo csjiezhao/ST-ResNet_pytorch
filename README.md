@@ -1,5 +1,7 @@
 # ST-ResNet in Pytorch
 
+This is a Pytorch implementation of ***ST-ResNet*** (with dataset TaxiBJ) 
+
 ## Requirements
 - Pytorch = 1.5.1
 - Numpy
